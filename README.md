@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadMehediHasan
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning WPF
+- 🌱 I’m currently learning `c++`
 - 💞️ I’m looking to collaborate on OpenSource Project
 - 📫 How to reach me muhammadmehedihasan20@gmail.com
 
